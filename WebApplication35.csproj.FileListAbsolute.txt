@@ -1,0 +1,5 @@
+C:\Users\srcadmin\Documents\Visual Studio 2012\Projects\WebApplication35\WebApplication35\bin\WebApplication35.dll
+C:\Users\srcadmin\Documents\Visual Studio 2012\Projects\WebApplication35\WebApplication35\bin\WebApplication35.pdb
+C:\Users\srcadmin\Documents\Visual Studio 2012\Projects\WebApplication35\WebApplication35\obj\Debug\WebApplication35.dll
+C:\Users\srcadmin\Documents\Visual Studio 2012\Projects\WebApplication35\WebApplication35\obj\Debug\WebApplication35.pdb
+C:\Users\srcadmin\Documents\Visual Studio 2012\Projects\WebApplication35\WebApplication35\obj\Debug\WebApplication35.csprojResolveAssemblyReference.cache
